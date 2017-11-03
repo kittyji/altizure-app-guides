@@ -6,7 +6,7 @@
 * [主要功能](/introduction/features.md)
 * [支持的无人机型号](/introduction/supported-models.md)
 
-## 使用方法
+## 准备工作
 
 * [安全飞行基础](/preparation/flysafe-basics.md)
 * [初次打开](/preparation/post-installation.md)
