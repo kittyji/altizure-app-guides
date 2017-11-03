@@ -2,9 +2,14 @@
 
 ## 简介
 
-* [关于 Altizure app](//README.md)
+* [关于 Altizure app](/README.md)
 * [主要功能](/introduction/features.md)
-* [支持的无人机型号](/introduction/supported_models.md)
+* [支持的无人机型号](/introduction/supported-models.md)
+
+## 使用方法
+
+* [安全飞行基础](/preparation/flysafe-basics.md)
+* [初次打开](/preparation/post-installation.md)
 
 ## 在模拟器中学习使用 Altizure
 
