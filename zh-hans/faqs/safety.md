@@ -27,9 +27,9 @@ DJI Mobile SDK 在 app 使用时会将飞行数据纪录在设备里，这些数
 在 iOS 系统中，数据文件被储存在 app 专用的数据目录里，以下是导出方法：
 
 1. 在 Windows 上 [下载并安装 iTunes](https://www.apple.com/cn/itunes) \(macOS 自带，不必安装\)，启动后，将 iPhone 或 iPad 与电脑连接。
-2. 在 iTunes 左上方点击设备按钮![](/assets/Device.png)
-3. 进入 "Apps" 页面，滑动至 "文件共享" 部分，选中 "Altizure" 一栏![](/assets/iTunes_CN.jpg)
-4. 点击选择 "SDK\_logs"，滑至页面底部，找到并点击 "储存至..." 按钮（或直接拖拽文件夹到桌面）![](/save_to.png)![](/assets/save_to.png)
+2. 在 iTunes 左上方点击设备按钮![](../img/itunes/device.png)
+3. 进入 "Apps" 页面，滑动至 "文件共享" 部分，选中 "Altizure" 一栏![](../img/itunes/apps.jpg)
+4. 点击选择 "SDK\_logs"，滑至页面底部，找到并点击 "储存至..." 按钮（或直接拖拽文件夹到桌面）![](../img/itunes/save_to.png)
 
 
 

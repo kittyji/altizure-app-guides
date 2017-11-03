@@ -16,28 +16,28 @@
 
 打开 **DJI PC 模拟器**，然后点击 **Display Simulator**
 
-![](/assets/pcsimulator_disconnected.png)
+![](../img/simulator/pcsimulator_disconnected.png)
 
 #### 2. 连接电脑与无人机
 
-开启无人机的电源，最好不要安装桨叶。用 USB 线连接无人机和电脑。![](/assets/p3_usb.jpg)![](/assets/inspire_usb.jpg)
+开启无人机的电源，最好不要安装桨叶。用 USB 线连接无人机和电脑。![](../img/simulator/usb_phantom3.jpg)![](../img/simulator/usb_inspire1.jpg)
 
 #### 3. 启动模拟器
 
-输入你所在位置的 **Latitude**（纬度）和 **Longitude**（经度），点击 **Start Simulation **启动模拟器。 如果启动成功， 这个按钮会变成灰色，模拟器里也会显示当前的经纬度。![](/assets/pcsimulator_connected.png)
+输入你所在位置的 **Latitude**（纬度）和 **Longitude**（经度），点击 **Start Simulation **启动模拟器。 如果启动成功， 这个按钮会变成灰色，模拟器里也会显示当前的经纬度。![](../img/simulator/pcsimulator_connected.png)
 
 #### 4. 试用 Altizure
 
 连接手机和遥控，打开 Altizure。在 app 里找到无人机的位置（启动模拟器前输入的经纬度），在附近规划并开始一个新的航点任务。
 
-![](/assets/app_simulating.jpg)
+![](../img/simulator/altizure_app.jpg)
 
 #### 其他技巧
 
 * 这里有 [DJI 官方教程](https://developer.dji.com/mobile-sdk/documentation/application-development-workflow/workflow-testing.html#aircraft-simulator) 介绍如何使用模拟器。
 * 模拟器模式下也同样会拍摄照片，请在模拟结束后删除这些照片来释放 SD 卡的储存空间。
 * 用鼠标可以拖动模拟器界面变更视角，用鼠标滚轮可以拉近或拉远。
-* 右键点击模拟器界面, 点击 **setup**, 选中 **show trace**, 可以显示已飞过的航线。
+* 右键点击模拟器界面, 点击 **setup**, 选中 **show trace**, 可以显示已飞过的航线。![](../img/simulator/show_trace.jpg)
 
 
 
