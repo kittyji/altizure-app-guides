@@ -9,7 +9,8 @@
 ## 准备工作
 
 * [安全飞行基础](/preparation/flysafe-basics.md)
-* [初次打开](/preparation/post-installation.md)
+* [初次打开 Altizure](/preparation/post-installation.md)
+* [选择地图](/preparation/choose-basemap.md)
 
 ## 在模拟器中学习使用 Altizure
 
