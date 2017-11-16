@@ -12,6 +12,10 @@
 * [初次打开 Altizure](/preparation/post-installation.md)
 * [选择地图](/preparation/choose-basemap.md)
 
+## 航线规划 (iOS 版)
+
+* [创建任务](mission-ios/create-mission.md)
+
 ## 在模拟器中学习使用 Altizure
 
 * [用于 Mavic, Phantom 4, Inspire 2, M600 等](/pc-simulator/simulator2.md)
