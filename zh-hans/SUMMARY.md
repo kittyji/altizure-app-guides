@@ -15,6 +15,7 @@
 ## 航线规划 (iOS 版)
 
 * [创建任务](mission-ios/create-mission.md)
+* [任务设置（基本）](mission-ios/basic-settings.md)
 
 ## 在模拟器中学习使用 Altizure
 
